@@ -1,1 +1,1 @@
-# opentutorials---javascript
+# opentutorials-javascript
